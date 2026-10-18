@@ -1,6 +1,6 @@
 # Self-Hosting an Open Source AI Agent Platform with Kortix
 
-Kortix is the open-source AI Management System. Self-host it on a laptop, a VPS,
+Kortix is the open-source AI Operating System. Self-host it on a laptop, a VPS,
 your VPC, or on-prem:
 
 ```
