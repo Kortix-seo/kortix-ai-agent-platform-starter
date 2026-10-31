@@ -1,6 +1,6 @@
 # Kortix — Self-Hosted Open Source AI Agent Platform (Starter)
 
-Kortix is the open-source AI Operating System — the leading open-source alternative to Claude Cowork and ChatGPT Work. This repo is a ready-to-run starter: clone it to scaffold your own self-hosted AI agent platform on Kortix.
+Kortix is the open-source CompanyOS — the leading open-source alternative to Claude Cowork and ChatGPT Work. This repo is a ready-to-run starter: clone it to scaffold your own self-hosted AI agent platform on Kortix.
 
 Your agents, their skills, your company memory and every connector live in one git repo — this one. Any model with your own keys; self-hosted on a laptop, a VPS, your VPC, or on-prem, or managed cloud.
 
