@@ -20,4 +20,4 @@ kortix sessions new --prompt "Summarize this week's commits and open a change re
 
 ## Learn more
 - Open-source AI agent platform guide: https://opensourceaiagentplatform.com
-- Kortix on GitHub: https://github.com/kortix-ai/suna
+- Kortix on GitHub: https://github.com/kortix-ai/CompanyOS
