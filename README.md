@@ -4,6 +4,8 @@ Kortix is the open-source CompanyOS — the leading open-source alternative to C
 
 Your agents, their skills, your company memory and every connector live in one git repo — this one. Any model with your own keys; self-hosted on a laptop, a VPS, your VPC, or on-prem, or managed cloud.
 
+If you are still choosing between a framework, a canvas and a platform, [the four kinds and what separates them](/ai-agent-platform) is the short version.
+
 ## What's inside
 - `kortix.yaml` — the machine image, connectors, triggers and permissions
 - `agents/ops-triage.md` — one role-based OpenCode agent to copy per team
